@@ -1,6 +1,7 @@
 ### Hi there 👋
 # Welocome to  my GitHub profile !!
 
+My name is Wojciech and I was born in Poland, but for more than a decade, I'm living in Utrecht in the Netherlands. With multiple years of experience in logistics and warehousing, I'm currently on my way to become a Full Stack Web Developer. I'm getting closer to the finishing line of 11 weeks long Coding Academy @Codaisseur. I know that it just the beginning of my new path but I'm excited about that journey! :) 
 
 <!--
 **WojciechLisCode/WojciechLisCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
