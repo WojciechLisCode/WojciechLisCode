@@ -1,4 +1,4 @@
-<div>
+<div align="center>
 ### Hi there 👋
 <img src="https://github.com/WojciechLisCode/WojciechLisCode/blob/main/Wojciech%20Lis.png" width ="100%" alt="banner">
 
