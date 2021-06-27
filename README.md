@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img src="https://github.com/WojciechLisCode/WojciechLisCode/blob/main/Wojciech%20Lis.png" alt="banner">
+
 
 # Welocome to  my GitHub profile !!
 
