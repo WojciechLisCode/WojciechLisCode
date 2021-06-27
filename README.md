@@ -1,3 +1,4 @@
+<div>
 ### Hi there 👋
 <img src="https://github.com/WojciechLisCode/WojciechLisCode/blob/main/Wojciech%20Lis.png" width ="100%" alt="banner">
 
@@ -9,7 +10,8 @@ My name is Wojciech and I was born in Poland, but for more than a decade, I'm li
 ### ⚡ Technologies ⚡
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-<!--
+</div>
+  <!--
 **WojciechLisCode/WojciechLisCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
