@@ -12,7 +12,6 @@
 
 ### <p align="center">Current main project:<p> ###
 
-[Candles Agora](https://github.com/users/WojciechLisCode/projects/2), sfdfd
-
+[Candles Agora](https://github.com/users/WojciechLisCode/projects/2) . [Candles Agora Backend](https://github.com/WojciechLisCode/candles-agora-backend)
 
 <div align'"center"><img src="https://github.com/WojciechLisCode/WojciechLisCode/blob/main/candles-agor-preview.jpg" /></div>
