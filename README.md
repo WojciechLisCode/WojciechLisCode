@@ -13,6 +13,6 @@
 ### <p align="center">Current main project:<p> ###
 
 
-Candles Agora[Backend](https://github.com/WojciechLisCode/candles-agora-backend)/[Frontend](https://github.com/WojciechLisCode/candles-agora-frontend)
+Candles Agora (repos: [Backend](https://github.com/WojciechLisCode/candles-agora-backend)/[Frontend](https://github.com/WojciechLisCode/candles-agora-frontend))
 
 <div align'"center"><img src="https://github.com/WojciechLisCode/WojciechLisCode/blob/main/candles-agor-preview.jpg" /></div>
