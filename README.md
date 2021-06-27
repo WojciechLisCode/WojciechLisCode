@@ -11,7 +11,7 @@
 
 <div align="center">
  </br>
- <p align="center"> **Current main project:** <p> 
+ <p align="center" font-weight="800">Current main project:<p> 
 
 
 Candles Agora (repos: [Backend](https://github.com/WojciechLisCode/candles-agora-backend)/[Frontend](https://github.com/WojciechLisCode/candles-agora-frontend))
