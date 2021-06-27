@@ -12,7 +12,7 @@
 
 ### <p align="center">Current main project:<p> ###
 
-[ < Candles Agora > ](https://github.com/users/WojciechLisCode/projects/2)
+
 [ < Candles Agora Backend > ](https://github.com/WojciechLisCode/candles-agora-backend)
 [ < Candles Agora Frontend > ](https://github.com/WojciechLisCode/candles-agora-frontend)
 
