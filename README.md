@@ -11,3 +11,4 @@
 
 
 ### <p align="center">Current main project:<p> ###
+<div align'"center"><img src="https://github.com/WojciechLisCode/WojciechLisCode/blob/main/candles-agor-preview.jpg" /></div>
