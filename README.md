@@ -19,4 +19,4 @@
 
 Candles Agora (repos: [Backend](https://github.com/WojciechLisCode/candles-agora-backend)/[Frontend](https://github.com/WojciechLisCode/candles-agora-frontend))
 
-<img src="https://github.com/WojciechLisCode/WojciechLisCode/blob/main/candles-agor-preview.jpg" /></div>
+<img src="https://github.com/WojciechLisCode/candles-agora-frontend/blob/development/Peek%202021-06-28%2008-39.gif" /></div>
