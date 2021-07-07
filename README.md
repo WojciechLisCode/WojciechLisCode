@@ -14,7 +14,7 @@
  </br>
  </br>
  
- <p align="center">Current main project:<p> 
+ <p align="center">Current main projects:<p> 
 
 
 Candles Agora (repos: [Backend](https://github.com/WojciechLisCode/candles-agora-backend)/[Frontend](https://github.com/WojciechLisCode/candles-agora-frontend))
