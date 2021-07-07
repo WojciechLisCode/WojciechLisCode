@@ -12,15 +12,18 @@
 <div align="center">
  </br>
  </br>
- </br>
  
- <p align="center">Current main projects:<p> 
+ ## <p align="center">Current main projects:<p> 
 
 
-Candles Agora </br> [Deployed Website](https://candles-agora.netlify.app/) </br> (repos: [Backend](https://github.com/WojciechLisCode/candles-agora-backend)/[Frontend](https://github.com/WojciechLisCode/candles-agora-frontend))
+### Candles Agora 
+</br> [Deployed Website](https://candles-agora.netlify.app/) </br> (repos: [Backend](https://github.com/WojciechLisCode/candles-agora-backend)/[Frontend](https://github.com/WojciechLisCode/candles-agora-frontend))
 
 <img src="https://github.com/WojciechLisCode/candles-agora-frontend/blob/development/Peek%202021-06-28%2008-39.gif" />
 
-Random Entertain. </br> [Deployed Website](https://random-entertain.netlify.app/) </br> (repos: [Backend](https://github.com/WojciechLisCode/Random-Entertain-Server)/[Frontend](https://github.com/WojciechLisCode/Random-Entertain-Client))
+ </br> </br>
+
+### Random Entertain.
+</br> [Deployed Website](https://random-entertain.netlify.app/) </br> (repos: [Backend](https://github.com/WojciechLisCode/Random-Entertain-Server)/[Frontend](https://github.com/WojciechLisCode/Random-Entertain-Client))
 
 </div>
