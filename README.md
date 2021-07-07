@@ -26,4 +26,6 @@
 ### Random Entertain.
 </br> [Deployed Website](https://random-entertain.netlify.app/) </br> (repos: [Backend](https://github.com/WojciechLisCode/Random-Entertain-Server)/[Frontend](https://github.com/WojciechLisCode/Random-Entertain-Client))
 
+<img src="https://github.com/WojciechLisCode/Random-Entertain-Client/blob/development/RE.gif" />
+
 </div>
