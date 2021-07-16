@@ -17,7 +17,7 @@
 
 
 ### Candles Agora 
-</br> [Deployed Website](https://candles-agora.netlify.app/) </br> (repos: [Backend](https://github.com/WojciechLisCode/candles-agora-backend)/[Frontend](https://github.com/WojciechLisCode/candles-agora-frontend))
+</br> [Deployed Website](https://candles-agora.com) </br> (repos: [Backend](https://github.com/WojciechLisCode/candles-agora-backend)/[Frontend](https://github.com/WojciechLisCode/candles-agora-frontend))
 
 <img src="https://github.com/WojciechLisCode/candles-agora-frontend/blob/development/Peek%202021-06-28%2008-39.gif" />
 
